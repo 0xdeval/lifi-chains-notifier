@@ -40,4 +40,4 @@ jobs:
             git push
           else
             echo "✅ No cache changes to commit."
-          fiand
+          fi
